@@ -127,8 +127,3 @@ putSpaces n l ws = if l > n || null ws then
 -- -- e) Si te animas: calculadora :: IO () (Intérprete de expresiones aritméticas)
 -- --    Proceso que lee de la entrada una expresión aritmética (formada por números y
 -- --    operadores infijos +,*,-,/) y la evalúa
--- 
--- calculadora :: IO ()
--- calculadora = do 
---     putStr ("Introduce una expresión: ")
---     x <- getLine
