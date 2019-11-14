@@ -20,3 +20,4 @@ Este repositorio contiene un conjunto de ejercicios tomados del curso en [Progra
 | Sesión 2 | [Enlace](Code/Sesion2.pdf) | [Enlace](Code/Sesion2.hs) |
 | Sesión 3   | [Enlace](Code/Sesion3.pdf) | [Enlace](Code/Sesion3.hs) |
 | Sesión 4   | [Enlace](Code/Sesion4.pdf) | [Enlace](Code/Sesion4.hs) |
+| Sesión 5   | [Enlace](Code/Sesion5.pdf) | [Enlace](Code/Sesion5.hs) |
