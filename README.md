@@ -21,3 +21,10 @@ Este repositorio contiene un conjunto de ejercicios tomados del curso en [Progra
 | Sesión 3   | [Enlace](Code/Sesion3.pdf) | [Enlace](Code/Sesion3.hs) |
 | Sesión 4   | [Enlace](Code/Sesion4.pdf) | [Enlace](Code/Sesion4.hs) |
 | Sesión 5   | [Enlace](Code/Sesion5.pdf) | [Enlace](Code/Sesion5.hs) |
+
+
+
+## Práctica Final
+| Práctica &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Enunciado           | Solución           |
+| ------------- |:-------------:| :-------------:|
+| Sesión 1    | [Enlace](Code/PRFinal.pdf) | [Enlace](Code/PrácticaFinalPD.hs) |
